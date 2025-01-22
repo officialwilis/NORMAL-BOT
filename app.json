@@ -25,7 +25,7 @@
 "MENUTYPE":
     {
       "description":"Enter 1 for small thumbnail menu, Enter 2 for big thumbnail menu, leave blank and they will be displaying randomly big or Small ",
-      "value":"",
+      "value":"1",
       "required":false
     },
 "AUDIO_CHATBOT":
@@ -61,7 +61,7 @@
 "AUTO_BIO":
     {
       "description":"Enter yes for your bot to auto bio or no to decline",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 
@@ -99,7 +99,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/h2ydge.jpg",
+      "value":"https://chat.whatsapp.com/KX7EPsiJhMlLLHJrXa7n0F",
       "required":false
        
      },
@@ -123,7 +123,7 @@
     {
       
     "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
-      "value":"",
+      "value":"254786273945",
     "required":true
       
     },
@@ -132,7 +132,7 @@
     
     "desc": "Owner name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "Willis"
   },
     "SESSION_ID":{
     "description":"put your session ID , the code you received from from ibrahim adams site",   
@@ -163,7 +163,7 @@
  },
   "ANTIDELETE1" : {
     "description": "if you want to enable anti delete messages to be sent to your inbox put yes else put no",
-    "value": "no",
+    "value": "yes",
         "required": false
   }
   },
