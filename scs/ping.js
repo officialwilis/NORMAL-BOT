@@ -3,7 +3,7 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-const webPageUrl = 'https://chat.whatsapp.com/KX7EPsiJhMlLLHJrXa7n0F';
+const webPageUrl = 'https://www.ibrahimadams.site/files';
 
 async function fetchPingUrl() {
     try {
